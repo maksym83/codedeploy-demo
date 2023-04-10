@@ -1,11 +1,11 @@
 #--------------------------------------------------------------
 # Simple AWS CodeDeploy Config File
 #
-# Copyleft (c) by Denis Astahov
+# Copyleft (c) by Maksym Osypchuk
 #--------------------------------------------------------------
 
 version: 0.0
-os     : windows
+os     : ubuntu
 files:
   - source     : \
     destination: C:\inetpub\wwwroot
